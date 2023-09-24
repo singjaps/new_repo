@@ -3,3 +3,5 @@ $date = Get-Date
 Write-Host "Hello! My name is $name and today is $date"
 
 # Comment
+
+Write-Host "Hello World!"
